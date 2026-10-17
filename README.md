@@ -4,7 +4,7 @@ A local, offline app that looks at one brain MRI picture, **suggests the tumor t
 
 > **Important:** This is a student project for learning. It is **not a medical device** and it does **not** give a diagnosis. Never use it for real patient decisions.
 
-![Grad-CAM examples](docs/gradcam_examples.png)
+
 
 *Grad-CAM shows where the model looked. It is **not** a tumor outline.*
 
@@ -61,7 +61,7 @@ Evaluated once on the official Testing folder: **1,600 pictures (400 per class)*
 | No tumor | 0.946 | 1.000 | 0.972 |
 | Pituitary | 0.988 | 0.998 | 0.993 |
 
-![Confusion matrix](docs/confusion_matrix.png)
+
 
 ### Honest notes about these numbers
 
@@ -70,7 +70,7 @@ Evaluated once on the official Testing folder: **1,600 pictures (400 per class)*
 - **The dataset has no patient ID.** Pictures from the same person may appear in train, validation, and test, so real-life scores can be lower.
 - The model was trained on one public dataset only. It was not tested on MRI from other hospitals or scanners.
 
-![Training curves](docs/training_curves.png)
+
 
 ---
 
