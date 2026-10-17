@@ -1,0 +1,11 @@
+# Install PyTorch first: https://pytorch.org (choose GPU or CPU)
+# torch
+# torchvision
+streamlit
+segmentation-models-pytorch
+numpy
+pillow
+scipy
+matplotlib
+requests
+kagglehub

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Big files and data (share with Releases / Kaggle / Hugging Face instead)
+models/*.pt
+data/
+*.zip
+*.mp4
+
+# Local scan history of the app (can contain patient pictures)
+history/
+
+# Secrets
+.env
