@@ -158,10 +158,7 @@ The language model gets strict rules: use only the given numbers, call the resul
 - Dataset: Masoud Nickparvar, *Brain Tumor MRI Dataset* (CC BY 4.0).
 - Models and libraries: PyTorch, `segmentation_models_pytorch`, Streamlit, Ollama, Qwen2.5 (downloaded separately; see its own license).
 
-## Author
 
-**Jassim** — Artificial Intelligence Engineering student, Near East University.
-LinkedIn: [add your link here] · GitHub: [add your link here]
 
 ## License
 
